@@ -1,0 +1,1 @@
+C:\Users\frank\IdeaProjects\Laboratorio1\build\classes\kotlin\main\MainKt.class;C:\Users\frank\IdeaProjects\Laboratorio1\build\classes\kotlin\main\modelo\Entregable.class;C:\Users\frank\IdeaProjects\Laboratorio1\build\classes\kotlin\main\modelo\Serie.class;C:\Users\frank\IdeaProjects\Laboratorio1\build\classes\kotlin\main\modelo\Videojuego.class
